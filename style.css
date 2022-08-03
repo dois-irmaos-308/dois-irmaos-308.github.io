@@ -6,7 +6,7 @@ body {
   }
   .wrap {
     width: 100%;
-    max-width: 320px;
+    max-width: 600px;
     margin: 0 auto;
   }
   .profile {
@@ -21,13 +21,14 @@ body {
     font-weight: bold;
     display: block;
   }
-  .at {
-    font-size: 13px;
+  .a {
+    
   }
   .links ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    font-size: 30px;
   }
   .links ul li {
     margin: 14px 0;
